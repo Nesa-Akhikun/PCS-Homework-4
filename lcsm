@@ -1,3 +1,4 @@
+LCSM/Finding a Shared Motif:
 
 
 def find_sub_in_list(substring, list):
